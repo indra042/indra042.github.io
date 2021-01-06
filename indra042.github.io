@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Dunia Electronik </title>
+<head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <meta content="description" name="description">
+  <meta name="google" content="notranslate" />
+  <meta content="Mashup templates have been developped by Orson.io team" name="author">
+
+  <!-- Disable tap highlight on IE -->
+  <meta name="msapplication-tap-highlight" content="no">
+  
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-icon-180x180.png">
+  <link href="./assets/favicon.ico" rel="icon">
+
+  <link href="" rel="stylesheet">
+
+
+  <title>Title page</title>
+
+<link href="./main.550dcf66.css" rel="stylesheet"></head>
+
+<body> <!-- Add your content of header -->
+<header>
+  <nav class="navbar navbar-default active">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="./index.html" title="">
+          <img src="./assets/images/mashup-icon.svg" class="navbar-logo-img" alt="">
+          Dunia Electronik
+        </a>
+      </div>
+
+      <div class="collapse navbar-collapse" id="navbar-collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="./index.html" title="">Home</a></li>
+		  <li><a href="./project.html" title="">Project</a></li>
+        
+          <li>
+            <p>
+              <a href="./components.html" class="btn btn-default navbar-btn" title="">Join Us</a>
+            </p>
+          </li>
+
+        </ul>
+      </div> 
+    </div>
+  </nav>
+</header>
+
+<!-- Add your site or app content here -->
+  <div class="hero-full-container background-image-container white-text-container">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <h1>Electronik</h1>
+          <p>WELCOME TO DUNIA ELECTRONIK WEBSITE. INDRA.</p>
+          <br>
+          <a href="file:///C:/Users/User/Documents/web%20indra%20game%20lab/project.html" class="btn btn-default btn-lg" title="">Masuk</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section-container">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-md-8 col-md-offset-2">
+          <div class="text-center">
+            <h2>About Us</h2>
+            <p>Taukah kamu website ini adalah web pertama saya dan di dalam web ini berisi tentang electronik, semoga website ini bisa berkembang lebih besar dan di buka semua orang. 
+            <br>
+            Tolong di maklumi jika ada salah kata Terima Kasih.</p>
+          </div>
+       </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section-container">
+    <div class="container">
+      <div class="row">      
+          <div class="col-xs-12">
+
+
+            <div id="carousel-example-generic" class="carousel carousel-fade slide" data-ride="carousel">
+                
+                <div class="carousel-inner" role="listbox">
+
+                    <div class="item active">
+                        <img class="img-responsive" src="./assets/images/img-06.jpg" alt="First slide">
+                        <div class="carousel-caption card-shadow reveal">
+                          
+                          <h3>PENGERTIAN ELECTRONIK</h3>
+                          <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                            <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                            <span class="sr-only">Next</span>
+                          </a>
+                          <p>
+								Pengertian Elektronika (Electronics)
+Berikut ini adalah beberapa definisi yang saya dapat dari berbagai situs Elektronika dan kamus online yang berbahasa Inggris  :
+
+Elektronika adalah cabang fisika yang berkaitan dengan emisi dan efek elektron dan pengoperasian perangkat elektronik. — thoughtco.com
+Elektronika merupakan ilmu yang mempelajari alat listrik arus lemah yang dioperasikan dengan cara mengontrol aliran elektron atau partikel bermuatan listrik dalam suatu alat seperti komputer, peralatan elektronik, termokopel, semikonduktor, dan lain sebagainya. – wikipedia.org
+Elektronika adalah cabang teknik yang menangani konduksi arus melalui vakum atau gas atau semikonduktor. – buku Principles of Electronics karangan V.K. MEHTA dan ROHIT MEHTA.
+Elektronika adalah Perangkat atau teknologi yang terkait dengan atau menggunakan sirkuit dan komponen arus searah tegangan rendah dan padat, biasanya untuk pengiriman dan / atau pemrosesan data analog atau digital. — businessdictionary.com
+                          </p>
+                          
+                          <p>
+                            Amplification (Penguatan)
+Amplification atau Penguatan adalah fungsi perangkat elektronika yang dapat memperkuat sinyal lemah menjadi  sinyal yang lebih besar. Perangkat atau Rangkaian Elektronika yang melakukan fungsi penguatan atau amplification ini disebut dengan Amplifier atau Penguat. Rangkaian atau perangkat Penguat atau amplifier ini dapat ditemuikan diberbagai perangkat elektronika seperti Radio, Ponsel, Televisi dan lain-lainnya.
+                          </p>
+                         
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img class="img-responsive" src="./assets/images/img-07.jpg" alt="First slide">
+                        <div class="carousel-caption card-shadow reveal">
+
+                          <h3>FUNGSI-FUNGSI ELECTRONIK</h3>
+                            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                              <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                              <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                              <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                              <span class="sr-only">Next</span>
+                            </a>
+                          <p>
+                            Fungsi-fungsi Dasar Perangkat Elektronika
+Setelah kita mengetahui Pengertian Elektronika berdasarkan definisinya, seterusnya adalah mengetahui fungsi-fungsi dasar yang dapat dilakukan oleh teknologi elektronika tersebut. Komponen-komponen atau perangkat Elektronika pada dasarnya dapat melakukan fungsi-fungsi dasar seperti dibawah ini :
+
+Rectification  (Penyearah)
+Rectification atau Penyearah adalah fungsi perangkat elektronika yang dapat mengkonversikan tegangan dan arus listrik AC (bolak-balik) menjadi tegangan dan arus listrik DC (searah). Perangkat Elektronika dapat mengkonversikan daya listrik AC ke daya listrik DC dengan efisiensi yang sangat tinggi. Perangkat-perangkat Eletronika tersebut diantaranya seperti Pencatu Daya (Power Supply), Pengisi ulang Baterai (Battery Charger), DC generator, Elektroplating dan lain-lainnya.
+                          </p>
+                          
+                          <p>
+                           
+                          </p>
+                         
+                        </div>
+                    </div>
+                </div>
+               
+            </div>
+
+           
+          </div>
+          
+        </div>  
+      
+    </div>
+  </div>
+
+  <div class="section-container">
+    <div class="container text-center">
+      <div class="row section-container-spacer">
+        <div class="col-xs-12 col-md-12">
+
+          <h2 class="text-center">Support</h2>
+          <p>Terima kasih GameLab telah memberikan saya kesempatan dan saya sangat berterima kasih.</p>
+        </div>  
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-md-4">
+          <img src="download.png" alt="" class="img-responsive reveal-content image-center">
+
+        </div>
+       
+        <div class="col-xs-12 col-md-4">
+          <img src="share.png" alt="" class="img-responsive reveal-content image-center">
+        </div>
+        <div class="col-xs-12 col-md-4">
+          <img src="index.png" alt="" class="img-responsive reveal-content image-center">
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+ 
+  <div class="section-container contact-container">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-md-12">
+          <div class="section-container-spacer">
+            <h2 class="text-center">Contact Us</h2>
+            <p class="text-center">Terima kasih telah mampir di website indra ,jika ada kendala hubungi di bawah ini.</p>
+          </div>
+          <div class="card-container">
+            <div class="card card-shadow col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2 reveal">
+              <form action="" class="reveal-content">
+                <div class="row">
+                  <div class="col-md-7">
+                    <div class="form-group">
+                      <input type="email" class="form-control" id="email" placeholder="Email">
+                    </div>
+                    <div class="form-group">
+                      <input type="text" class="form-control" id="subject" placeholder="Subject">
+                    </div>
+                    <div class="form-group">
+                      <textarea class="form-control" rows="3" placeholder="Enter your message"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Send message</button>
+                  </div>
+                  <div class="col-md-5">
+                    <ul class="list-unstyled address-container">
+                      <li>
+                        <span class="fa-icon">
+                          <i class="fa fa-phone" aria-hidden="true"></i>
+                        </span>
+                        083845170901
+                      </li>
+                      <li>
+                        <span class="fa-icon">
+                          <i class="fa fa fa-map-o" aria-hidden="true"></i>
+                        </span>
+                        Kaltim,Paser,Tanah Grogot 2020 
+                      </li>
+					                        <li>
+                        
+                    @MuhammadIndraEfendi9@gmail.com
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </form>
+            </div>
+            
+          </div>
+        </div>  
+      </div>
+    </div>
+  </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+    navbarFixedTopAnimation();
+  });
+</script>
+
+<footer class="footer-container white-text-container">
+  <div class="container">
+    <div class="row">
+
+     
+      <a class="navbar-brand" href="./index.html" title="">
+          <img src="./assets/images/mashup-icon.svg" class="navbar-logo-img" alt="">
+          Dunia Electronik
+        </a>
+
+        <div class="row">
+          <div class="col-xs-12 col-sm-7">
+            <p><small>©2020 Reserved By Muhammad Indra Efendi</a></small>
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-5">
+            <p class="text-right">
+			<p><small>Powered by<a href="https://www.gamelab.id/" title="Create website with free html template"> GameLab.id</a> 
+               <a href="https://www.gamelab.id/"  class="social-round-icon white-round-icon fa-icon" title="">
+                <i class="fa fa-facebook" aria-hidden="true"></i>
+              </a>
+              <a href="https://twitter.com/" class="social-round-icon white-round-icon fa-icon" title="">
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+              </a>
+              <a href="https://www.linkedin.com/" class="social-round-icon white-round-icon fa-icon" title="">
+                <i class="fa fa-linkedin" aria-hidden="true"></i>
+              </a>
+            </p>
+          </div>
+        </div>
+        
+        
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+    navActivePage();
+    scrollRevelation('.reveal');
+  });
+</script>
+
+<!-- Google Analytics: change UA-XXXXX-X to be your site's ID 
+
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+  ga('create', 'UA-XXXXX-X', 'auto');
+  ga('send', 'pageview');
+</script>
+
+--> <script type="text/javascript" src="./main.0cf8b554.js"></script></body>
+
+</html>
